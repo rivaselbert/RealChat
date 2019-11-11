@@ -1,0 +1,6 @@
+framework module Pods_RealChatTests {
+  umbrella header "Pods-RealChatTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
